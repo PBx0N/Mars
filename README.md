@@ -3,7 +3,7 @@
 This will scrape various websites for data related to the Mission to Mars and displays the information in a single HTML page. 
 
 
-## Jupyter Notebook file called `Mission_to_Mars.ipynb`. 
+### Mission_to_Mars.ipynb
 
 * Scrape the [Mars News Site](https://redplanetscience.com/) and collect the latest News Title and Paragraph Text
 
@@ -23,7 +23,7 @@ This will scrape various websites for data related to the Mission to Mars and di
 
 * Append the dictionary with the image URL string and the hemisphere title to a list. This list will contain one dictionary for each hemisphere.
 
-# Flask_Mars.py and scrape_mars.py
+### Flask_Mars.py and scrape_mars.py
 
 Use MongoDB with Flask templating to create a new HTML page that displays all the information that was scraped from the URLs above.
 
